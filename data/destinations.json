@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "name": "Tropical Paradise Resort",
+        "image": "https://unsplash.com/photos/e91cnFBacNM",
+        "description": "A beautiful resort located on a tropical island. Enjoy the sun, sand, and sea.",
+        "rating": "4.5",
+        "price": "150",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+      },
+      {
+        "id": "2",
+        "name": "Majestic Mountain Retreat",
+        "image": "https://unsplash.com/photos/eB7YJV-MUes",
+        "description": "A serene escape in the heart of the mountains. Perfect for hiking and nature lovers.",
+        "rating": "4.8",
+        "price": "200",
+        "duration": "5",
+        "location": "Rocky Mountains",
+        "category": "Mountains"
+      },
+      {
+        "id": "3",
+        "name": "Cosmopolitan City Getaway",
+        "image": "https://unsplash.com/photos/niUkImZcSP8",
+        "description": "Explore the vibrant life of a bustling metropolis with world-class amenities.",
+        "rating": "4.7",
+        "price": "300",
+        "duration": "2",
+        "location": "New York City",
+        "category": "Cities"
+      },
+      {
+        "id": "4",
+        "name": "Enchanted Forest Cabin",
+        "image": "https://unsplash.com/photos/fT49QnFucQ8",
+        "description": "Stay in a cozy cabin surrounded by the magic of ancient forests and wildlife.",
+        "rating": "4.6",
+        "price": "180",
+        "duration": "4",
+        "location": "Black Forest",
+        "category": "Forests"
+      },
+      {
+        "id": "5",
+        "name": "Serene Lake House",
+        "image": "https://unsplash.com/photos/tZIqPqYA_Fo",
+        "description": "Relax in a lakefront house with stunning views and crystal-clear waters.",
+        "rating": "4.4",
+        "price": "220",
+        "duration": "3",
+        "location": "Lake Tahoe",
+        "category": "Lakes"
+      },
+      {
+        "id": "6",
+        "name": "Ancient Ruins Tour",
+        "image": "https://unsplash.com/photos/P6MLtqbzXpY",
+        "description": "Step back in time and explore the history of ancient civilizations at these ruins.",
+        "rating": "4.9",
+        "price": "250",
+        "duration": "6",
+        "location": "Machu Picchu",
+        "category": "Historical Sites"
+      },
+      {
+        "id": "7",
+        "name": "National Park Adventure",
+        "image": "https://unsplash.com/photos/KTJoAMGpKAY",
+        "description": "Discover the natural beauty of this vast national park, home to diverse wildlife.",
+        "rating": "4.7",
+        "price": "170",
+        "duration": "5",
+        "location": "Yellowstone National Park",
+        "category": "National Parks"
+      },
+      {
+        "id": "8",
+        "name": "Island Escape",
+        "image": "https://unsplash.com/photos/zEjv8i6JtE4",
+        "description": "Unwind on a peaceful island surrounded by crystal-clear waters and white sand.",
+        "rating": "4.6",
+        "price": "230",
+        "duration": "7",
+        "location": "Maldives",
+        "category": "Islands"
+      },
+      {
+        "id": "9",
+        "name": "Desert Oasis Experience",
+        "image": "https://unsplash.com/photos/2py2uoqL9w0",
+        "description": "Experience the beauty and tranquility of the desert, with luxury accommodations.",
+        "rating": "4.5",
+        "price": "190",
+        "duration": "4",
+        "location": "Sahara Desert",
+        "category": "Desert"
+      }
+]
