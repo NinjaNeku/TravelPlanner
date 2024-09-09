@@ -5,6 +5,7 @@ import { Colors } from '@/constants/Colors'
 import { Ionicons } from '@expo/vector-icons';
 import CategoryButton from '../../components/CategoryButton';
 import Listings from '../../components/Listings';
+import ListingData from '../../data/destinations.json';
 
 export default function Home() {
   const headerHeight = useCustomHeaderHeight();
@@ -27,7 +28,7 @@ export default function Home() {
         </TouchableOpacity>
       </View>
       <CategoryButton onCatChanged={onCatChanged}/>
-      <Listings />
+      <Listings listings={ListingData}/>
     </View>
   )
 }
